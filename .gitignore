@@ -1,0 +1,17 @@
+# Secrets / credentials — never commit these
+bramble_api_token.json
+*_token.json
+*.pem
+.env
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
